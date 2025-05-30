@@ -14,3 +14,11 @@ h1 {
     font-weight: bold;
     font-size: 60px;
 }
+
+.list {
+    text-align: center;
+    font-size: 30px;
+    border: 2px dotted black;
+    width: 300px;
+    margin: 0 auto;
+}
